@@ -1,5 +1,6 @@
 {
 	"title": "Meine tolle Todo",
+	"description": "Dies ist eine einfache To-Do-App, die Inlang in einer realen Anwendung demonstriert.",
 	"app": {
 		"today": "Heute, {date}",
 		"nrOfTodos": "{count} Aufgaben",
